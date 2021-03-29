@@ -15,7 +15,7 @@ class Window(QMainWindow):
 
         self.setFixedSize(1920, 1080)
 
-        self.setWindowIcon(QIcon('slateicon.png'))
+        self.setWindowIcon(QIcon('slateicon.ico'))
 
         self.shapes = []
 
